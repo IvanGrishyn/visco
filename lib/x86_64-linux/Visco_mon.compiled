@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Compiler Value="/usr/bin/fpc" Date="1557783618"/>
+  <Params Value=" -MObjFPC -Scghi -Cg -O1 -g -gl -l -vewnhibq -Fi/home/gri/Programming/FP/visco/lib/x86_64-linux -Fu/home/gri/Programming/FP/visco/ -FU/home/gri/Programming/FP/visco/lib/x86_64-linux/ -FE/home/gri/Programming/FP/visco/ -o/home/gri/Programming/FP/visco/Visco_mon Visco_mon.lpr"/>
+</CONFIG>

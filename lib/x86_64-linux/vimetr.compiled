@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Compiler Value="/usr/bin/fpc" Date="1557783618"/>
+  <Params Value=" -MObjFPC -Scghi -Cg -O1 -l -vewnhibq -Fi/home/gri/Documents/Programming/FP/visco/lib/x86_64-linux -Fu/usr/lib/lazarus/lcl/units/x86_64-linux/qt5 -Fu/usr/lib/lazarus/lcl/units/x86_64-linux -Fu/usr/lib/lazarus/components/lazutils/lib/x86_64-linux -Fu/usr/lib/lazarus/packager/units/x86_64-linux -Fu/home/gri/Documents/Programming/FP/visco/ -FU/home/gri/Documents/Programming/FP/visco/lib/x86_64-linux/ -FE/home/gri/Documents/Programming/FP/visco/ -o/home/gri/Documents/Programming/FP/visco/vimetr -dLCL -dLCLqt5 vimetr.lpr"/>
+</CONFIG>
